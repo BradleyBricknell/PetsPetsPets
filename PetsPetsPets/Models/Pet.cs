@@ -1,12 +1,9 @@
 ﻿using PetsPetsPets.Helpers;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace PetsPetsPets.Models
 {
-    public class Pet
+	public class Pet
     {
 		// create a new pet, calculate current raties to be 50% of the capacity of a rating
 		// First iteration of this ctor hardcoded LastFed & LastStroked to DateTime.Now. However, I figured that perhaps more difficult to manage pets might be implemented where  

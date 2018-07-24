@@ -1,8 +1,6 @@
-﻿using PetsPetsPets.TempDataStorage;
-
-namespace PetsPetsPets.Models
+﻿namespace PetsPetsPets.Models
 {
-    public class User
+	public class User
     {
 		public User(string userId)
 		{
